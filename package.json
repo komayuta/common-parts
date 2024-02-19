@@ -1,5 +1,5 @@
 {
-  "name": "@koma/common-parts",
+  "name": "common-parts",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,9 +7,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/"
-  }
+  "license": "ISC"
 }
