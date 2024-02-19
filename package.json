@@ -8,9 +8,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/@koma%2fcommon-parts"
-  }
+  "license": "ISC"
 }
