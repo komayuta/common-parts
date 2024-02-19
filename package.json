@@ -11,6 +11,6 @@
   "license": "ISC",
   "publishConfig": {
     "access": "public",
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/@koma%2fcommon-parts"
   }
 }
