@@ -1,5 +1,5 @@
 {
-  "name": "common-parts",
+  "name": "@koma/common-parts",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
