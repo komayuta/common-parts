@@ -1,2 +1,12 @@
-/node_modules
-/dist
+.vuepress/dist
+
+# Serverless directories
+.serverless
+
+
+# End of https://www.gitignore.io/api/node,intellij+all
+
+node_modules/
+build/
+dist/
+__diff_output__/
