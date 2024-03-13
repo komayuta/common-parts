@@ -1,0 +1,1 @@
+# aqua-article-common-parts
