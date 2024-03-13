@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LinkContainer does not render <a> if href is invalid 1`] = `
+<b>
+  test
+</b>
+`;
+
+exports[`LinkContainer renders <a> if href exists 1`] = `
+<a
+  class="test-class"
+  href="/abc"
+>
+  <b>
+    test
+  </b>
+</a>
+`;
